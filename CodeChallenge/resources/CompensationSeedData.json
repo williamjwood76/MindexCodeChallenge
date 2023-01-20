@@ -1,0 +1,14 @@
+﻿[
+  {
+    "compansationid": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "salary": "110000.00",
+    "effectiveDate": "01/19/2023",
+    "employee": {
+      "employeeid": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+      "firstName": "John",
+      "lastName": "Lennon",
+      "position": "Development Manager",
+      "department": "Engineering"
+    }
+  }
+]
